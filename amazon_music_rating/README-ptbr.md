@@ -27,7 +27,12 @@ O objetivo deste projeto é prever notas e recomendar itens musicais para usuár
 
 ### Apresentação e resultados 📊:
 
-(espaco reservado para adicionar imagens e resultados depois)
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/4eb8ce9b-d3c3-4f24-9b1e-5ccf0d21e58a" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/cab21405-50b0-4578-a39f-37f9c7e2f05e" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/c6a28767-0f11-4237-b817-db8070be270d" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/a3c29275-02c6-445c-9509-68aac610d925" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/82e96ddf-cfef-42ad-be08-7424a093cf4d" />
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/aa55678f-7810-4c44-9eef-620a0513f8f0" />
 
 ### Autor 👨‍💻
 
